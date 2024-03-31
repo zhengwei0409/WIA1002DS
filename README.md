@@ -16,4 +16,4 @@ Bags are the example of ADT.
 ## week4 - Linked List
 A linear data structure where elements are stored in nodes, and each node points to the next node in the sequence.  
 We learn about how the linked list methods is implemented using nodes.  
-Linked lists can be singly linked, where each node points to the next node, or doubly linked, where each node has pointers to both the next and previous nodes, enabling traversal in both directions.
+
