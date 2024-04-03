@@ -1,7 +1,5 @@
 # WIA1002 contents
 
-*NOTE: The summary I have provided is based on my understanding of the topic and may not be completely accurate. If you notice any errors or have any questions, please feel free to contact me for clarification.*
-
 ## week1 - Object-oriented programming (OOP)
 This week, we're revisiting S1 concepts such as classes and objects, exploring how to utilize abstract classes, understanding class interfaces, and delving into the concept of polymorphism.  
 
