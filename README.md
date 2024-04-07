@@ -15,3 +15,8 @@ Bags are the example of ADT.
 A linear data structure where elements are stored in nodes, and each node points to the next node in the sequence.  
 We learn about how the linked list methods is implemented using nodes.  
 
+## week 5 - Doubly Linked List
+We learn about how the doubly linked list is implemented using nodes with 2 pointers, one pointing to the next node in the sequence and another pointing to the previous node
+
+## 8/4/2024 - 14/4/2024 MID SEM BREAK  
+Rest well ~~
