@@ -22,4 +22,7 @@ We learn about how the doubly linked list is implemented using nodes with 2 poin
 Take a break, enjoy life ~~
 
 ## week 6 - Stack
-We learn about what is stack and how it is implemented using ArrayList. We also learn the applications of stack such as infix to postfix and tower of hanoi.
+We learn about what is stack (LIFO) and how it is implemented using ArrayList. We also learn the applications of stack such as infix to postfix and tower of hanoi.
+
+## week 7 - Queue and Priority Queue
+We learn about what is queue (FIFO) and how it is implemented using LinkedList. We also learn priority queue where elements are assigned with priorities and element with the highest priority is removed first.
