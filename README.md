@@ -26,3 +26,9 @@ We learn about what is stack (LIFO) and how it is implemented using ArrayList. W
 
 ## week 7 - Queue and Priority Queue
 We learn about what is queue (FIFO) and how it is implemented using LinkedList. We also learn priority queue where elements are assigned with priorities and element with the highest priority is removed first.
+
+## week 8 - Problem Solving using Stack and Queue
+We learn about how to use Stack to solve HTML tag matching and Queue to solve simulating waiting line problem.
+
+## week 9 - Graph
+We learn about graph can be model using adjacency matrix and adjacency list. We also learn how to implement graph using vertex and edge node. Besides that, we learn 2 graph travelsal method which is BFS and DFS.
