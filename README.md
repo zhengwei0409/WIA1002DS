@@ -32,3 +32,6 @@ We learn about how to use Stack to solve HTML tag matching and Queue to solve si
 
 ## week 9 - Graph
 We learn about graph can be model using adjacency matrix and adjacency list. We also learn how to implement graph using vertex and edge node. Besides that, we learn 2 graph travelsal method which is BFS and DFS.
+
+## week 10 - Recursion
+We learn about Recursion which is a programming technique where a function calls itself in order to solve a problem. idk why when i read the recursion code i can understand, but when u ask me to code it, i can't...
