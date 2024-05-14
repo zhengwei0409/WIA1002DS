@@ -12,7 +12,5 @@ public class Q5 {
             printSeparateDigit(n / 10);
             System.out.print((n%10) + " ");
         }
-
-        
     }
 }
