@@ -35,3 +35,6 @@ We learn about graph can be model using adjacency matrix and adjacency list. We 
 
 ## week 10 - Recursion
 We learn about Recursion which is a programming technique where a function calls itself in order to solve a problem. idk why when i read the recursion code i can understand, but when u ask me to code it, i can't...
+
+## week 11 - Search and Sort
+We learned about linear search and binary search. Additionally, we studied selection sort, insertion sort, bubble sort, and merge sort. Merge sort uses the divide and conquer strategy. ><
