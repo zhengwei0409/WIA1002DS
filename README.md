@@ -38,3 +38,8 @@ We learn about Recursion which is a programming technique where a function calls
 
 ## week 11 - Search and Sort
 We learned about linear search and binary search. Additionally, we studied selection sort, insertion sort, bubble sort, and merge sort. Merge sort uses the divide and conquer strategy. ><
+
+## week 12 - Binary Search Tree
+Actually we learn BST in next week, but i done liao hehe. This week, we learned about implementing the Binary Search Tree, a powerful data structure known for its optimal time complexity.
+
+yeahhhh done all the tuto n lab for this sem liao ~~
